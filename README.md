@@ -8,6 +8,12 @@
 > 想了解实现细节，可以现场演示，或按需提供只读访问。
 
 ---
+## 运行截图
+<img width="1900" height="1081" alt="屏幕截图 2026-10-30 211402" src="https://github.com/user-attachments/assets/5aa7468c-fe55-4b2c-9b8b-a18cbb2adfbb" />
+
+<img width="1867" height="820" alt="屏幕截图 2026-10-30 211723" src="https://github.com/user-attachments/assets/f376d8b4-f306-45cb-bc72-7561d2a78fcb" />
+
+---
 
 ## 架构
 
