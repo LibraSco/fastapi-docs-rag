@@ -175,6 +175,3 @@ pytest tests -q
 
 - `uvicorn` + `curl`：`/health`、`/chat`（多跳题 8 次 LLM、10.5 s）、`/chat/stream`（9 个事件、4.0 s）、`/trace`
 - Streamlit `AppTest` 跑真实脚本：无异常，回答与 5 条来源正常渲染
-
-浏览器级截图验收因本机权限限制没有做；Docker 与 Redis 也没有在本机实际运行，见“已知局限”。
-
